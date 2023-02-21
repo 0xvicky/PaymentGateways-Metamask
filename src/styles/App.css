@@ -1,0 +1,47 @@
+.header {
+  background-color: purple;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.input-box {
+  margin: 10px;
+}
+
+.header-head {
+  color: white;
+}
+
+.header-conn-btn {
+  text-decoration: none;
+  border: none;
+  padding: 10px;
+  background-color: white;
+  color: purple;
+  font-size: medium;
+  border: 2px solid purple;
+}
+
+.currency-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 30px;
+  color: purple;
+}
+
+.currency-box {
+  display: flex;
+  flex-direction: column;
+}
+
+.mint-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.nft-img {
+  height: 300px;
+  width: 300px;
+}
